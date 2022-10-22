@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **The chicken is the closest living relative to the Tyrannosaurus Rex.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
