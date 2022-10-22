@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & HTML.**
 
-- 👨‍💻 All of my projects are available at [here at, (https://replit.com/@KrishaPatel17)](here at, (https://replit.com/@KrishaPatel17))
+- 👨‍💻 All of my projects are available at [https://replit.com/@KrishaPatel17]
 
 - ⚡ Fun fact **The chicken is the closest living relative to the Tyrannosaurus Rex.**
 
