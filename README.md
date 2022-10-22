@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Krisha Patel</h1>
-<h3 align="center">A Indian student who enjoys reading, drawing, programming,and a bird enthusiast!</h3>
+<h3 align="center">A Indian student & bird enthusiest who enjoys reading, drawing, and programming.</h3>
 
 - 🔭 I’m currently working on [Rock-Paper-Scissors](https://github.com/KrishaPatel17/Rock-Paper-Scissors)
 
