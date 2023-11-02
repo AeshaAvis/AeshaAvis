@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Krisha</h1>
 <h3 align="center">A Indian student & bird enthusiast who is new to programming.</h3>
 
-- 🔭 I’m currently working on [Remeid](https://github.com/KrishaPatel17/Remeid)
+- 🔭 I’m currently working on ApCSP homework-
 
-- 🌱 I’m currently learning **Python & HTML**
+- 🌱 I’m currently learning **Python & Javascript**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@KrishaPatel17](https://replit.com/@KrishaPatel17)
 
